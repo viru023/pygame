@@ -1,6 +1,6 @@
 import random
 
-num1 = random.randint(1,10)
+num1 = random.randint(10,25)
 as_string = str(num1)
 for i in range(3):
     num2 = int(input("enter a number: "))
